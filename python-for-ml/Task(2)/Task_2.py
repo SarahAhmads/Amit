@@ -1,4 +1,4 @@
-EncodedText = "###!!@emocleW PGTQ!!!6789"
+EncodedText = "###!!@mocleW EPGTQ!!!6789"
 Core_Part = EncodedText[6:18]
 First_Word = Core_Part.split(' ')[0]
 Second_Word = Core_Part.split(' ')[1]
