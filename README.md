@@ -7,8 +7,8 @@ Machine Learning.
 ## Getting Started 
 To get started with this project, clone the repository and 
 navigate to the `python-for-ml` folder.
-## Task(1) Bonus Question
-### Project: Cafe Data Cleaning
+# Task(1) Bonus Question
+## Project: Cafe Data Cleaning
 1. Clean cafe sales dataset
 2. Fix missing values and faulty values/Errors
 #Task(2)
