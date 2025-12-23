@@ -1,0 +1,11 @@
+def show_menu():
+    print("Welcome to the Student Course Manager")
+    print("1. Add Student")
+    print("2. Remove Student")
+    print("3. Add Course")
+    print("4. Remove Course Course")
+    print("5. View Courses")
+    print("6. Record Grade")
+    print("7. Get all students")
+    print("8. Get all courses")
+    print("9. ")
