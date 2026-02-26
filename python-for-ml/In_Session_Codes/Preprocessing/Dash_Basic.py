@@ -3,9 +3,7 @@ import plotly.express as px
 from dash import Dash, html, dcc
 from dash.dependencies import Input, Output
 
-df = pd.read_excel(
-    r"C:\Users\NOTEBOOK\Downloads\Amit Repository\Amit\python-for-ml\Preprocessing\Dash.xlsx"
-)
+df = pd.read_excel(r"C:\Users\NOTEBOOK\Downloads\Amit Repository\Amit\python-for-ml\Preprocessing\Dash.xlsx")
 
 app = Dash()
 app.title = "Interactive Dash App"
